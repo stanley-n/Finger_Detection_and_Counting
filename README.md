@@ -28,7 +28,7 @@ Clone the repository and run the main script to start the finger detection and c
 The code is organized into the following major sections:
 •	Imports: Necessary libraries and modules are imported.
 •	Global Variables: Variables used throughout the program are defined.
-•	Functions: Definitions for key functions like ‘calc_accum_avg’, ‘segment’, and ‘count_fingers’.
+•	Functions: Definitions for key functions like ‘calc_accum_avg’, `segment`, and ‘count_fingers’.
 •	Run Program: Main execution loop that captures the camera feed and performs finger counting.
 
 ## Customization
