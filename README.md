@@ -33,5 +33,6 @@ Feel free to adjust the threshold value for better hand detection based on your 
 
 ## Acknowledgments
 This project was inspired by a course on Udemy taught by Jose Portilla.
-License
+
+## License
 This project is not licensed.
