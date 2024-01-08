@@ -23,7 +23,7 @@ Clone the repository and run the main script to start the finger detection and c
 
 ## Usage
 1.	Ensure your camera is on.
-2.	Run the main.py script.
+2.	Run the `main.ipynb` script.
 3.	The application will initialize and begin calculating the background average for the first 60 frames. Wait for at least 5 seconds before inserting hand into red bounding box displayed on screen.
 4.	Once the hand is inserted into red bounding box, it will segment the hand region and display the count of detected fingers in real-time.
 
