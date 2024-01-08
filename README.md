@@ -3,8 +3,11 @@ This project is aimed at detecting and counting fingers using computer vision te
 
 ## Overview
 The project involves several key steps:
+
 •	Calculating the average background value to identify hand regions effectively.
+
 •	Segmenting the hand region in the frame using background subtraction techniques.
+
 •	Utilizing Convex Hulls to calculate fingers and count them based on certain criteria.
 
 ## Installation
