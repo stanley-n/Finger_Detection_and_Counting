@@ -1,6 +1,10 @@
 # Finger Detection and Counting
 This project is aimed at detecting and counting fingers using computer vision techniques. It utilizes OpenCV and NumPy libraries in Python to process live camera feeds and perform finger counting based on hand gestures. 
 
+
+https://github.com/stanley-n/Finger_Detection_and_Counting/assets/81343463/985f422e-263f-42b7-b170-d4901b176edc
+
+
 ## Overview
 The project involves several key steps:
 
