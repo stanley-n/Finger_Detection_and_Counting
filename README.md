@@ -17,11 +17,14 @@ The project involves several key steps:
 ## Installation
 To use this project, ensure you have the following dependencies installed:
 
-•	Python (version 3.7)
-
-•	OpenCV
-
-•	NumPy
+  - python=3.6
+  - opencv
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - scipy
+  - keras
+  - tensorflow=1.14
 
 Clone the repository and run the main script to start the finger detection and counting application.
 
